@@ -1,7 +1,7 @@
 # Sona
-A SwiftUI-based iOS music streaming application that organizes your music library by moods, built with Firebase backend integration. SwiftUI-based iOS music streaming application that organizes your music library by moods, built with Firebase backend integration.
+A SwiftUI-based iOS music streaming application that organizes your music library by moods, built with Firebase backend integration. 
 
-Sona is a personalized music player that lets users create custom mood-based playlists with their own music. Upload songs, categorize them by mood, and enjoy a tailored listening experience with features like favorites, shuffle, and song previews.
+Sona is a personalized music player that lets users create custom mood-based playlists with their own music. Upload songs, categorize them by mood, and enjoy a listening experience with features like favourites, shuffle, and song previews.
 
 This is a student project. Contributions, issues, and feature requests are welcome!
 
