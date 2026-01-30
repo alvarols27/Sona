@@ -5,7 +5,7 @@ Sona is a personalized music player that lets users create custom mood-based pla
 
 This is a student project. Contributions, issues, and feature requests are welcome!
 
-# ✨ Key Features
+# Key Features
 # 🎭 Mood Management
 
 - Create Custom Moods: Design personalized mood categories with custom names, emojis, colors, and descriptions
