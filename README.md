@@ -61,6 +61,16 @@ This is a student project. Contributions, issues, and feature requests are welco
 - Singleton Managers: Shared state management (PlayerStateManager)
 - Real-time Listeners: Live data synchronization across views
 
+# 🔥 Firestore Structure
+```
+users
+ └── {uid}
+      ├── moods
+      │    └── {moodId}
+      └── songs
+           └── {songId}
+```
+
 # 📱 Key Components
 ## Views
 
